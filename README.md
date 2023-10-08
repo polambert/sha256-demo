@@ -18,11 +18,19 @@ This is because the hash function uses operations such as XOR functions, which t
 ## Usage
 
 While you are not really meant to use this, run the program as follows, starting from `python3 ./main.py`.
+To run the program, first clone the repository.
+
+```
+$ git clone https://github.com/polambert/sha256-demo
+$ cd sha256-demo
+```
+
+Run the demonstration using `python3 main.py`. You will have to have Python 3 installed.
 
 If you want to display the number of each type of operation SHA completes as it runs, you can change the value of "log_totals" on line 12 of sha256testlib.py to True.
 
 ```
-python3 ./main.py
+$ python3 ./main.py
 enter message to hash: hi
 
 -----------
