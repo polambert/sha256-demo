@@ -1,5 +1,5 @@
 
-# Python SHA-256 Implementation
+# SHA-256 Demonstration
 
 This is my implementation of the SHA-256 hash algorithm in Python. This implementation is not meant to be efficient or useful, it was constructed as a way for me to learn and understand the fundamentals of SHA-256 and what makes it virtually irreversible.
 
